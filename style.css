@@ -1,0 +1,28 @@
+#card2{
+    background-image: linear-gradient(to bottom, darkblue ,blue);
+    color: aliceblue;
+}
+img{
+    
+    height: 200px;
+    width: 300px;
+}
+.card{
+    width: 400px;
+    border: 0px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+#one{
+    margin-top: 50px;
+    color: coral;
+    font-family:cursive;
+}
+.container{
+    margin-left: 50px;
+}
+h4{
+    margin-top: 10px;
+    margin-left: 120px;
+}
+
